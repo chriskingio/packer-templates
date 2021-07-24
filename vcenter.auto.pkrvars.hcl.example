@@ -1,0 +1,14 @@
+# Base variables
+vcenter_server = "vcenter.server.hostname"
+vcenter_username = "user@vsphere.local"
+vcenter_password = "thisIsTotallyARealPassword"
+
+vcenter_cluster = "vcenter-cluster-name"
+vm_datastore = "vm-datastore"
+
+iso_datastore = "iso-datastore"
+
+provisioning_network = "vmware network name"
+#override_mac_suffix = "aa:bb:cc"
+
+ssh_password = "ssh password"
